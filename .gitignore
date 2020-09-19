@@ -1,0 +1,10 @@
+Debug
+.vs
+Release
+AvZTools/Debug
+AvZTools/Release
+AvZTools/AvZ
+AvZTools/MinGW
+AvZTools/log.txt
+AvZTools/libavz.dll
+AvZTools/configure
